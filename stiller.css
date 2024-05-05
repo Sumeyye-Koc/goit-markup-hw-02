@@ -2,14 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 
-.logotip_ {
+.logotype_ {
     font-family: "Ralewey", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #4D5AE5;
 
+}
+
+.logotypestudio_ {
+    color: #f54ffd;
 }
 
 .navbar_ {
@@ -26,11 +31,57 @@
 }
 
 .order-service {
+    
+
+}
+
+.h1_ {
     background-color: #2e2f42;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+}
 
+.order-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+#order_button:hover {
+    background-color: #404bbf;
+    cursor: pointer;
+}
+
+.section_2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.2em;
+    color: #2e2f42;
+
+}
+
+.section_2p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.footer {
+    background-color: #2e2f42;
+
+}
+
+.footer_p {
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
 }
