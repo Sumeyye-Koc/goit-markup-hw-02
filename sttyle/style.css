@@ -19,6 +19,7 @@
 
 .navbar {
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -26,17 +27,21 @@
 }
 
 
-#nav-1:hover {
+.navbar:hover {
     color: #404bbf;
 }
 
-.order-service {
-    
+.address {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 
 }
 
-.h1 {
-    background-color: #2e2f42;
+.address:hover {
+    color: #404bbf;
+}
+.order-service {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -54,12 +59,12 @@
     color: #ffffff;
 }
 
-#order_button:hover {
+.order-button:hover {
     background-color: #404bbf;
     cursor: pointer;
 }
 
-.section_2 {
+.h3-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -68,19 +73,31 @@
 
 }
 
-.section_2p {
+.our-team {
+    background-color: #f4f4fd;
+}
+
+.p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
+.h2-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 .footer {
     background-color: #2e2f42;
 
 }
 
-.footer_p {
+.footer-p {
     line-height: 1.5;
     color: #f4f4fd;
     letter-spacing: 0.02em;
