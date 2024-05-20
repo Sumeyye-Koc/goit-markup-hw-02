@@ -41,7 +41,8 @@
 .address:hover {
     color: #404bbf;
 }
-.order-service {
+
+.section-1-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -64,6 +65,15 @@
     cursor: pointer;
 }
 
+.order-service {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+
 .h3-title {
     font-weight: 500;
     font-size: 20px;
@@ -77,7 +87,7 @@
     background-color: #f4f4fd;
 }
 
-.p {
+.p-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
