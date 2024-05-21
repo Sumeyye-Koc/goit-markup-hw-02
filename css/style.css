@@ -32,9 +32,9 @@
 }
 
 .nav-bar:focus {
+    pointer-events: none;
     color: #404bbf;
 }
-
 .header-address-info {
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -42,7 +42,7 @@
 
 }
 
-.address:focus {
+.header-address-info:focus {
     color: #404bbf;
 }
 
