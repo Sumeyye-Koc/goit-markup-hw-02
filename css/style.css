@@ -32,21 +32,24 @@
 }
 
 .nav-bar:focus {
-    pointer-events: none;
     color: #404bbf;
 }
-.header-address-info {
+.address-info {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 
 }
 
-.header-address-info:focus {
+.address-info:hover {
     color: #404bbf;
 }
 
-.h1-title {
+.address-info:focus {
+    color: #404bbf;
+}
+
+.order-title {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
