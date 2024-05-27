@@ -69,9 +69,13 @@
 }
 
 
-#order-button:focus{
+.order-button:focus {
     background-color: #404bbf;
     cursor: pointer;
+}
+
+.order-button:hover{
+    background-color: #404bbf;
 }
 
 .order-service {
