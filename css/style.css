@@ -67,14 +67,16 @@
     color: #ffffff;
 }
 
+
+#order-button:hover{
+    color: #404bbf;
+}
+
 #order-button:focus{
     background-color: #404bbf;
     cursor: pointer;
 }
 
-#order-button:hover{
-    background-color: #404bbf;
-}
 .order-service {
     font-size: 56px;
     line-height: 1.07;
