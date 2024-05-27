@@ -65,12 +65,9 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    
 }
 
-
-#order-button:hover{
-    color: #404bbf;
-}
 
 #order-button:focus{
     background-color: #404bbf;
