@@ -119,7 +119,11 @@
     color: #434455;
 }
 
-.our-team-img{
+.ourteam-backcolor{
+    background-color: #ffffff;
+}
+
+.ourteam-image{
     background-color: #ffffff;
 }
 
