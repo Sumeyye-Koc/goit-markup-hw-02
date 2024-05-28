@@ -90,6 +90,15 @@
     background-color: #ffffff;
 }
 
+.htwo-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
 .hthree-title {
     font-weight: 500;
     font-size: 20px;
@@ -114,14 +123,7 @@
     background-color: #ffffff;
 }
 
-.htwo-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
+
 .footer {
     background-color: #2e2f42;
 
